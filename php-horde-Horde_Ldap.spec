@@ -9,7 +9,7 @@ License:	LGPLv3
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	0031ed385d7142f946daff30381e9e7b
-URL:		http://pear.horde.org/package/Horde_Ldap/
+URL:		https://github.com/horde/horde/tree/master/framework/Ldap/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.7.0
