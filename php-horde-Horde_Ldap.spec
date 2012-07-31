@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde LDAP libraries
 Name:		php-horde-Horde_Ldap
-Version:	1.1.4
+Version:	1.1.5
 Release:	1
 License:	LGPLv3
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	477ebb732f2ed24c5409a679db0ffc08
+# Source0-md5:	539a3f067c18d50da2960b111a337ffa
 URL:		https://github.com/horde/horde/tree/master/framework/Ldap/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
