@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Ldap
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde LDAP libraries
 Name:		php-horde-Horde_Ldap
 Version:	1.1.5
