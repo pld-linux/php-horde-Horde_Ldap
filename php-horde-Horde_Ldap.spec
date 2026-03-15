@@ -3,7 +3,7 @@
 Summary:	%{pearname} - Horde LDAP libraries
 Name:		php-horde-Horde_Ldap
 Version:	1.1.5
-Release:	2
+Release:	3
 License:	LGPLv3
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
